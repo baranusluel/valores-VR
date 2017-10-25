@@ -6,6 +6,8 @@
 
 *By Baran Usluel, Sidharth Potdar, Mark Faingold and Amanda Lang*
 
+https://devpost.com/software/valores
+
 ## Inspiration
 
 As students interested in virtual reality and finance, we wanted to bridge the gap between work and play. Now you can keep track of your investment portfolio while engrossed in the world of virtual reality.
